@@ -27,7 +27,7 @@ body {
     font-family: var(--fonte-padrao);
 }
 header {
-    height: 150px;
+    height: auto;
     text-align: center;
     color: white;
     font-family: var(--fonte-destaque);
